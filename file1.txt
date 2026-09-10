@@ -1,1 +1,2 @@
 Today GIT fist class
+second line
