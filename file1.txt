@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Today GIT fist class
 second line
 third line
+=======
+Today GIT fist class
+>>>>>>> 7b74b68 (1st commit)
